@@ -9,7 +9,8 @@ Hand Tracking model from media pipe. Each hand is having landmarks comprise of 2
 
 ### A quick video from project
 ---
-https://user-images.githubusercontent.com/73002780/137604375-701d19e3-7664-4504-b19d-e904c10b8633.mp4
+https://user-images.githubusercontent.com/73002780/137604529-99f221d3-4f09-44b6-a9d2-d0e7fe025e90.mp4
+
 
 
 ### project video
