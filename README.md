@@ -7,15 +7,16 @@ MediaPipe Hands utilizes an ML pipeline consisting of multiple models working to
 ![capture](https://s21.picofile.com/file/8442372750/21_landmark.png)
 Hand Tracking model from media pipe. Each hand is having landmarks comprise of 21 points. Goal is to count fingers in the right hand. First stored tip id of fingers in list. Next compare the co-ordinates to check whether finger is open or close. If open, append 1 in list and for close fingers append 0 in list. At last count total fingers and dispay it using its corresponding image.
 
-A quick video from project
+### A quick video from project
 ---
-![capture](https://s20.picofile.com/file/8442372584/Finger_counting.mp4.html)
-![A](docs/docfx/images/MixtureOpen.gif)
-![B](https://s20.picofile.com/file/8442372584/Finger_counting.mp4.html)
+https://user-images.githubusercontent.com/73002780/137604375-701d19e3-7664-4504-b19d-e904c10b8633.mp4
+
+
 ### project video
 ---
 ##### To see the complete project video click on the link below:
 ***https://youtu.be/5oxNreahWdg***
+
 
 ### License Information
 ---
